@@ -16,8 +16,10 @@
     "require": {
         "php": ">=5.6",
         "zanphp/contracts": "dev-master",
-        "zanphp/testing":"dev-master",
         "psr/container": "~1.0"
+    },
+    "require-dev": {
+        "zanphp/testing":"dev-master"
     },
     "autoload": {
         "files": [
